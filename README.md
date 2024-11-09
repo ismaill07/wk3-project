@@ -1,4 +1,4 @@
-# Calculator
+# wk3 project - Calculator
 
 ## Description
 A colaborative project with 2 member, where we build a simple calculator which does addition, subtraction, division and multiplication
